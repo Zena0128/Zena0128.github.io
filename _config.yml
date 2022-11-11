@@ -29,7 +29,8 @@ description:           >
   Bachelor of Business Administration who loves to handle data efficiently
 
 # A shorter description for the sidebar.
-tagline:               데이터 엔지니어가 되기 위한 문과생의 열정 가득한 여정
+tagline:               데이터 엔지니어가 되기 위한 
+문과생의 열정 가득한 여정
 
 # A list of keywords for your blog
 keywords:              [backend, data-engineering]
@@ -49,12 +50,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
+  - title:             자료구조
+    url:               /structure/
+  - title:             알고리즘
+    url:               /algorithm/
+  - title:             컴퓨터 사이언스
+    url:               /cs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
