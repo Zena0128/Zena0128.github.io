@@ -29,7 +29,7 @@ description:           >
   Bachelor of Business Administration who loves to handle data efficiently
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               데이터 엔지니어가 되기 위한 문과생의 열정 가득한 여정
 
 # A list of keywords for your blog
 keywords:              [backend, data-engineering]
@@ -42,8 +42,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <JUGN-A> <LEE>
+  email:               <0128ja@gmail.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
