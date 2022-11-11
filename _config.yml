@@ -29,8 +29,9 @@ description:           >
   Bachelor of Business Administration who loves to handle data efficiently
 
 # A shorter description for the sidebar.
-tagline:               데이터 엔지니어가 되기 위한 
-문과생의 열정 가득한 여정
+tagline:          
+     데이터 엔지니어가 되기 위한
+     문과생의 열정 가득한 여정
 
 # A list of keywords for your blog
 keywords:              [backend, data-engineering]
